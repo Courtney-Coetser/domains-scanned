@@ -1,2 +1,2 @@
 # domains-scanned
-Overall, this script gets the domain names that have been scanned by subdomainfinder.c99.nl and saves the data to a file, processes the file content every minute, and repeats the process in a loop. 
+Overall the script gets the domain names that have been scanned by other users on subdomainfinder.c99.nl, saves data to file & loops. 
